@@ -54,7 +54,8 @@ pip install sqlalchemy-iris
 ## Github
 Optional, but not really if you are serious about things.
 
-github.com/sween/
+Here is the example repo:  
+[dbt-iris](https://github.com/sween/dbt-iris)
 
 ## dbt Configuration
 
