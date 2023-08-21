@@ -216,14 +216,7 @@ Source control gave us the code lineage, but `dbt` kept the tribal knowledge rig
 My experience with some data projects is they get handled with the testing rigor of teams that build web apps and it is not a fit.  Though the target data powers the UI (where the testing occurred), it only surfaced a fraction of the data complexity and raised a ton of bugs from the datawarehouse side of the project.
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
-
-Very Helpful Stuff:
+## Very Helpful Stuff:
 
 - [Learn through Problems](https://discourse.getdbt.com/t/problem-querying-duckdb-database/7604)
 - [Almost Definitive Guide](https://github.com/jwills/dbt-duckdb)
