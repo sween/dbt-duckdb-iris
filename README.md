@@ -1,4 +1,4 @@
-# dbt-iris 
+# dbt-duckdb-iris 
 Include IRIS Tables in Data Build Tool with Python
 
 <img src="assets/dbt-iris.png" alt="dbt-iris">
